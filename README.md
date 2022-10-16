@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertplt&label=Profile%20views&color=0e75b6&style=flat" alt="mertplt" /> </p>
-
 <p align="left"> <a href="https://twitter.com/mert_5p" target="blank"><img src="https://img.shields.io/twitter/follow/mert_5p?logo=twitter&style=for-the-badge" alt="mert_5p" /></a> </p>
 
 - 🔭 I’m currently working on [QuizApp](https://github.com/mertplt/TriviaQuizApp)
