@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A Computer Engineering Student</h3>
+<h3 align="center">A Computer Science Student</h3>
 
 <p align="left"> <a href="https://twitter.com/mert_5p" target="blank"><img src="https://img.shields.io/twitter/follow/mert_5p?logo=twitter&style=for-the-badge" alt="mert_5p" /></a> </p>
 
