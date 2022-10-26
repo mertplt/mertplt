@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift, Uikit**
 
-- 📫 How to reach me **mertplt5858@gmail.com**
+- 📫 How to reach me **mert.dev@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
